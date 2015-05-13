@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check Radio Toggle Buttons Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="shopping_list_text">Shopping List</string>
+    <string name="really_buying_text">Really buying those?</string>
+</resources>
